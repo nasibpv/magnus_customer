@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/magnus_customer/static/css/main.3fe87779.css",
-    "main.js": "/magnus_customer/static/js/main.5837ea24.js",
+    "main.js": "/magnus_customer/static/js/main.112b485d.js",
     "static/js/453.1d7130c1.chunk.js": "/magnus_customer/static/js/453.1d7130c1.chunk.js",
     "index.html": "/magnus_customer/index.html",
     "main.3fe87779.css.map": "/magnus_customer/static/css/main.3fe87779.css.map",
-    "main.5837ea24.js.map": "/magnus_customer/static/js/main.5837ea24.js.map",
+    "main.112b485d.js.map": "/magnus_customer/static/js/main.112b485d.js.map",
     "453.1d7130c1.chunk.js.map": "/magnus_customer/static/js/453.1d7130c1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3fe87779.css",
-    "static/js/main.5837ea24.js"
+    "static/js/main.112b485d.js"
   ]
 }
